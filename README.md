@@ -37,7 +37,6 @@ Feature scaling and selection
 2️) Exploratory Data Analysis (EDA)
 Customer distribution visualization
 Correlation analysis
-Churn vs Non-Churn behavior insights
 
 > Key Insights
 Customers with month-to-month contracts are more likely to churn.
