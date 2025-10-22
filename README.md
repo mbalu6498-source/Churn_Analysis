@@ -39,6 +39,7 @@ Customer distribution visualization
 Correlation analysis
 
 > Key Insights
+
 Customers with month-to-month contracts are more likely to churn.
 Higher monthly charges correlate with higher churn probability.
 Long-term customers tend to stay loyal
